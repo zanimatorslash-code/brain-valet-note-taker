@@ -3,8 +3,7 @@
 A local-first, Obsidian-style Markdown knowledge base that runs in the browser.
 Your notes are plain `.md` files in a folder you control — no account, no cloud, no lock-in.
 
-![stack](https://img.shields.io/badge/React_18-Vite_5-61dafb) ![license](https://img.shields.io/badge/license-MIT-blue)
-
+![stack](https://img.shields.io/badge/React_18-Vite_5-61dafb) 
 ## ✨ Features (Obsidian-inspired)
 
 | Feature | Details |
@@ -78,7 +77,3 @@ src/
 
 - Disk-backed vaults require a Chromium browser (File System Access API). Other browsers get the localStorage fallback.
 - This is an independent project inspired by Obsidian's UX; it is not affiliated with Obsidian. Images/PDF embeds and canvas are out of scope for now.
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
